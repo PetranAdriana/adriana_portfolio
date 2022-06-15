@@ -1,0 +1,6 @@
+if (self.CavalryLogger) { CavalryLogger.start_js_script(document.currentScript); }/*FB_PKG_DELIM*/
+
+__d("CometAddMediaItemsDialogQuery_facebookRelayOperation",[],(function(a,b,c,d,e,f){e.exports="3993735010679501"}),null);
+__d("CometAddMediaItemsDialogQuery$Parameters",["CometAddMediaItemsDialogQuery_facebookRelayOperation"],(function(a,b,c,d,e,f){"use strict";a={kind:"PreloadableConcreteRequest",params:{id:b("CometAddMediaItemsDialogQuery_facebookRelayOperation"),metadata:{},name:"CometAddMediaItemsDialogQuery",operationKind:"query",text:null}};e.exports=a}),null);
+__d("CometAddMediaItemsDialog.entrypoint",["CometAddMediaItemsDialogQuery$Parameters","JSResourceForInteraction"],(function(a,b,c,d,e,f,g){"use strict";a={getPreloadProps:function(a){a=a.mediaset_token;return{queries:{CometAddMediaItemsDialogQueryReference:{parameters:c("CometAddMediaItemsDialogQuery$Parameters"),variables:{mediasetToken:a}}}}},root:c("JSResourceForInteraction")("CometAddMediaItemsDialog.react").__setRef("CometAddMediaItemsDialog.entrypoint")};g["default"]=a}),98);
+__d("XCometPhotoAlbumEditControllerRouteBuilder",["jsRouteBuilder"],(function(a,b,c,d,e,f,g){a=c("jsRouteBuilder")("/media/set/edit/{mediaset_token}/",Object.freeze({}),void 0);b=a;g["default"]=b}),98);
