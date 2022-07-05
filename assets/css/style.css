@@ -1,15 +1,5 @@
-/**
-* Template Name: Adriana - v4.7.0
-* Template URL: https://bootstrapmade.com/Adriana-free-creative-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: roboto, sans-serif;
   color: #444444;
 }
 
@@ -1179,3 +1169,4 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
