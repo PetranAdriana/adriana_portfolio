@@ -6,7 +6,6 @@
 - HTML5
 - CSS3
 - JavaScript
-- jQuery
 - Bootstrap
 - Sass
 - Responsive Web Design
@@ -16,5 +15,4 @@
 - Figma
 - Webpack
 - NPM/Yarn
-- MongoDB
 - and more...
